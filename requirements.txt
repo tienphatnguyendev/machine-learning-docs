@@ -5,3 +5,5 @@ numpy
 seaborn
 matplotlib
 xgboost
+scikit-learn
+optuna
