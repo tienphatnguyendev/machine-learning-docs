@@ -7,3 +7,5 @@ matplotlib
 xgboost
 scikit-learn
 optuna
+plotly
+nbformat
