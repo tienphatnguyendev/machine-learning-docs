@@ -11,3 +11,6 @@ plotly
 nbformat
 tqdm
 geopandas
+tabulate
+scipy
+openpyxl
