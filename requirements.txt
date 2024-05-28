@@ -1,5 +1,5 @@
 tensorflow
-tensorflow-metal
+# tensorflow-metal
 pandas
 numpy
 seaborn
@@ -10,3 +10,4 @@ optuna
 plotly
 nbformat
 tqdm
+geopandas
