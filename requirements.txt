@@ -14,3 +14,4 @@ geopandas
 tabulate
 scipy
 openpyxl
+scikeras

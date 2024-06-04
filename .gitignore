@@ -1,3 +1,4 @@
 .mld-venv/
 .DS_Store
 *.zip
+.env
